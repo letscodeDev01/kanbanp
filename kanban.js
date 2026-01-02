@@ -23,10 +23,6 @@ let modalTaskColor = "lightPink"
 
 
 
-//  Json.stringify
-
-
-
 
 // Ticket Array
 
@@ -171,11 +167,6 @@ function createTicket(taskColor, task, id) {
     handleLock(ticketCont)
 
 }
-
-
-
-// change priority of the tickets
-
 
 
 
